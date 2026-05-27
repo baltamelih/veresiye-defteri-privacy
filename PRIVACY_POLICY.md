@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**App Name:** Veresiye Defteri  
+**App Name:** Veresiye Defteri | ESNAF 
 **Developer:** Melih Balta  
 **Contact:** melihbaltaa@icloud.com  
 **Last Updated:** 27 May 2026
